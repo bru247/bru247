@@ -1,16 +1,19 @@
-### Hi there 👋
+# Sobre mim 💟
 
-<!--
-**bru247/bru247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Bruna e sou cientista de dados.
 
-Here are some ideas to get you started:
+### Atualmente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trabalho hoje no marketing de uma empresa do setor financeiro. Meu dia-a-dia envolve principalmente modelos de propensão, recomendação e, atualmente, rankeamento.
+
+Faço uso cotidiano das linguagens Python e PySpark e tenho familiaridade com libs como Polars e Dask (além de Pandas né). Também faço uso de alguns serviços do ecossistema da AWS como S3, Trino, Sagemaker e EMR.
+
+### Interesses na área
+
+Meu objetivo é ser uma pessoa generalista com conhecimentos sólidos nas áreas de Ciência de Dados e MlOps. 
+
+Atualmente tenho iniciado estudos sobre vários temas, incluindo: Redes Neurais, serviços do ecossistema da AWS como EMR e Lambda, ferramentas como Airflow, Mlflow e Docker, além de estar começando a usar Virtual Machines com Distros Linux.
+
+Espero poder usar o GitHub como um espelho da minha evolução conforme vou aprendendo!
+
+Até mais! 🐼
